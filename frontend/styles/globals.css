@@ -1,0 +1,15 @@
+/* styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #0a0f1c;
+  color: white;
+}
+
+a {
+  transition: all 0.3s ease;
+}
+
