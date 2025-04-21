@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link href="/">
           <span className="text-2xl font-bold bg-gradient-to-r from-pink-500 via-purple-500 to-orange-400 text-transparent bg-clip-text">
-            DevOps Shack
+            DevOps ChatBot
           </span>
         </Link>
         <nav className="flex items-center gap-5 text-white text-sm font-medium">
